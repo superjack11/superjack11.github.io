@@ -1,5 +1,5 @@
 <ul>
-<li> P1: Tree, Random, Ping, Terminal</li>  
+<li href="https://superjack11.github.io/cit281-p7/"> P1: Tree, Random, Ping, Terminal</li>  
 <li> LAB1: Folders, Node, Shortcuts</li>
 <li> P2: Hangman</li>
 <li> LAB2: Files, Node</li>
